@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="transparent">#00000000</color>
+	<color name="off_white">#484848</color>
+	<color name="black">#000</color>
+    <color name="blue">#00f</color>
+    <color name="red">#f00</color>
+	
+	<color name="mod1">#FFFFFF</color>
+    <color name="main">#d2c6dd</color>
+    <color name="mod2">#9987a0</color>
+    <color name="text">#452f50</color>
+    <color name="small1">#af83bb</color>
+    <color name="heading">#000</color>
+    <color name="rare">#642b84</color>
+    
+    <color name="smog">#ff464D5C</color>
+    <color name="android_robot">#ffA4C639</color>
+    <color name="pastel_green">#ffD1E29C</color>
+    <color name="goldenrod">#ffFAFAD2</color>
+    <color name="pastel_red">#ffF7977A</color>
+    <color name="pastel_blue">#ffA0A0FF</color>
+    <color name="pastel_yellow">#ffD9D919</color>
+    <color name="pastel_orange">#ffFFB347</color>
+    <color name="pastel_plum">#ffDDA0DD</color>
+</resources>
